@@ -1,9 +1,11 @@
-### Welcome! I am Francisco Araujo, a front-end developer from :mexico:
+### Welcome! I am Francisco Araujo, a front-end developer from <img src="https://www.flaticon.com/svg/static/icons/svg/2737/2737367.svg" alt="Mexico" height="30px">
 
 - 🔭 I’m currently looking for ...work as a web developer
 - 🌱 I’m currently learning ...Typescript
 - 💬 Ask me about ...pcgaming
 - ⚡ Fun fact: ...I'm not a cat 🙄
+
+
 
 ### Technologies:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
