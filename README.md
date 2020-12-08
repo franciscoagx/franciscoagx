@@ -1,3 +1,5 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 ### Welcome! I am Francisco Araujo, a front-end developer from <img src="https://www.flaticon.com/svg/static/icons/svg/2737/2737367.svg" alt="Mexico" height="30px">
 
 - 🔭 I’m currently looking for ...work as a web developer
@@ -23,4 +25,4 @@
 <a href="https://www.instagram.com/fjarauj0/" title="Instagram"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="Instagram" width="40px" height="40px"></a>
 <a href="https://twitter.com/fjarauj0" title="Twitter"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" alt="Twitter" width="40px" height="40px"></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fjarauj0&show_icons=true&theme=cobalt" alt="Francisco's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjarauj0&layout=compact&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fjarauj0&show_icons=true" alt="Francisco's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjarauj0&layout=compact" />
