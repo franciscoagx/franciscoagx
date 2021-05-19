@@ -26,3 +26,5 @@
 <a href="https://twitter.com/fjarauj0" title="Twitter"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" alt="Twitter" width="40px" height="40px"></a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fjarauj0&show_icons=true" alt="Francisco's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjarauj0&layout=compact" />
+
+<img align="center" src="https://komarev.com/ghpvc/?username=fjarauj0" alt="fjaraujo" />
