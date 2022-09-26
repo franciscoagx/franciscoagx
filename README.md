@@ -40,4 +40,4 @@
 <a href="https://www.fjaraujo.com/" title="Portfolio">![Website](https://img.shields.io/badge/-Website-252931?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)</a>
 <a href="https://www.blog.fjaraujo.com/" title="Portfolio">![Blog](https://img.shields.io/badge/-Blog-207196?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)</a>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fjarauj0/fjarauj0/blob/output/snake.svg" alt="Snake animation" />
