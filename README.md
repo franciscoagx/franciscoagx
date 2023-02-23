@@ -36,7 +36,7 @@
 </div>
 
 <h3>Contact me:</h3>
-<div align="left">
+<div align="left" style="display: flex">
 <a href="mailto:contacto@fjaraujo.com" title="Mail"><img src="https://img.shields.io/badge/-GMail-E34133?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="GMail" style="margin-right: 5px" /></a>
 <a href="https://www.linkedin.com/in/fjarauj0/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="margin-right: 5px" /></a>
 <a href="https://www.instagram.com/fjarauj0/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DD2779?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" style="margin-right: 5px" /></a>
