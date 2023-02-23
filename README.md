@@ -7,12 +7,12 @@
 
 <h3>Development environment:<h3>
 <div align="left">
-<img src="https://img.shields.io/badge/-Windows-0078D7?logo=windows&logoColor=FFFFFF&style=flat" alt="Windows" />
-<img src="https://img.shields.io/badge/-Ubuntu-D64613?logo=ubuntu&logoColor=F7F7F7&style=flat" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/-Windows_Terminal-333333?logo=windowsterminal&logoColor=FFFFFF&style=flat" alt="Windows_Terminal" />
-<img src="https://img.shields.io/badge/-VS_Code-0076C6?logo=visualstudio&logoColor=FFFFFF&style=flat" alt="VS_Code" />
-<img src="https://img.shields.io/badge/-Git-E84D31?logo=git&logoColor=EAE9E1&style=flat" alt="Git" />
-<img src="https://img.shields.io/badge/-Yarn-2188B6?style=flat&logo=yarn&logoColor=FFFFFF" alt="Yarn" />
+<img src="https://img.shields.io/badge/-Windows-0078D7?logo=windows&logoColor=FFFFFF&style=flat" alt="Windows" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Ubuntu-D64613?logo=ubuntu&logoColor=F7F7F7&style=flat" alt="Ubuntu" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Windows_Terminal-333333?logo=windowsterminal&logoColor=FFFFFF&style=flat" alt="Windows_Terminal" style="margin-right: 5px"style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-VS_Code-0076C6?logo=visualstudio&logoColor=FFFFFF&style=flat" alt="VS_Code" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Git-E84D31?logo=git&logoColor=EAE9E1&style=flat" alt="Git" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Yarn-2188B6?style=flat&logo=yarn&logoColor=FFFFFF" alt="Yarn" style="margin-right: 5px"/>
 </div>
 
 <h3>Favorites technologies:<h3>
