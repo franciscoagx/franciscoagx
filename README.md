@@ -6,7 +6,7 @@
 - 📖 I’m currently learning ...NextJS, Tailwind CSS
 
 <h3>Development environment:<h3>
-<div align="left">
+<div align="left" style="display: flex">
 <img src="https://img.shields.io/badge/-Windows-0078D7?logo=windows&logoColor=FFFFFF&style=flat" alt="Windows" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-Ubuntu-D64613?logo=ubuntu&logoColor=F7F7F7&style=flat" alt="Ubuntu" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-Windows_Terminal-333333?logo=windowsterminal&logoColor=FFFFFF&style=flat" alt="Windows_Terminal" style="margin-right: 5px"style="margin-right: 5px"/>
@@ -16,17 +16,17 @@
 </div>
 
 <h3>Favorites technologies:<h3>
-<div align="left">
-<img src="https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=000000&style=flat" alt="Next.js" />
-<img src="https://img.shields.io/badge/-Vite-9468FE?logo=vite&logoColor=FFA800&style=flat" alt="Vite" />
-<img src="https://img.shields.io/badge/-TailwindCSS-FFFFFF?logo=tailwindcss&logoColor=0EA5E9&style=flat" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=77AF5E&style=flat" alt="Node.js" />
-<img src="https://img.shields.io/badge/-Javascript-333333?logo=javascript&logoColor=EFD81D&style=flat" alt="Javascript" />
-<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFFFF&style=flat" alt="Typescript" />
-<img src="https://img.shields.io/badge/-Github-24292F?logo=github&logoColor=F6F8FA&style=flat" alt="Github" />
-<img src="https://img.shields.io/badge/-Sass-F8F9FA?logo=sass&logoColor=CF649A&style=flat" alt="Sass" />
-<img src="https://img.shields.io/badge/-HTML-F8F9FA?logo=html5&logoColor=E96228&style=flat" alt="HTML" />
-<img src="https://img.shields.io/badge/-CSS-F8F9FA?logo=css3&logoColor=2071F7&style=flat" alt="fjaraujo" />
+<div align="left" style="display: flex">
+<img src="https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=000000&style=flat" alt="Next.js" style="margin-right: 5px"style="margin-right: 5px"style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Vite-9468FE?logo=vite&logoColor=FFA800&style=flat" alt="Vite" style="margin-right: 5px"style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-FFFFFF?logo=tailwindcss&logoColor=0EA5E9&style=flat" alt="TailwindCSS" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=77AF5E&style=flat" alt="Node.js" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Javascript-333333?logo=javascript&logoColor=EFD81D&style=flat" alt="Javascript" style="margin-right: 5px"style="margin-right: 5px"style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFFFF&style=flat" alt="Typescript" style="margin-right: 5px"style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Github-24292F?logo=github&logoColor=F6F8FA&style=flat" alt="Github" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Sass-F8F9FA?logo=sass&logoColor=CF649A&style=flat" alt="Sass" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-HTML-F8F9FA?logo=html5&logoColor=E96228&style=flat" alt="HTML" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-CSS-F8F9FA?logo=css3&logoColor=2071F7&style=flat" alt="fjaraujo" style="margin-right: 5px"/>
 <img src="https://komarev.com/ghpvc/?username=fjarauj0" alt="fjaraujo" />
 </div>
 </br>
