@@ -1,11 +1,11 @@
-<img align='right' style="margin-right:&nbsp;50px" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h2>Welcome! I am Francisco Araujo, web developer</h2>
 
 - 🔍 I’m currently looking for ...learn new thecnologies
 - 📖 I’m currently learning ...NextJS, Tailwind CSS
 
-<h3>Development environment:<h3>
+<h3>Development environment:</h3>
 <div align="left" style="display: flex">
 <img src="https://img.shields.io/badge/-Windows-0078D7?logo=windows&logoColor=FFFFFF&style=flat" alt="Windows" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-Ubuntu-D64613?logo=ubuntu&logoColor=F7F7F7&style=flat" alt="Ubuntu" style="margin-right: 5px"/>
@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/-Yarn-2188B6?style=flat&logo=yarn&logoColor=FFFFFF" alt="Yarn" style="margin-right: 5px"/>
 </div>
 
-<h3>Favorites technologies:<h3>
+<h3>Favorites technologies:</h3>
 <div align="left" style="display: flex">
-<img src="https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=000000&style=flat" alt="Next.js" style="margin-right: 5px"style="margin-right: 5px"style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=000000&style=flat" alt="Next.js" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-Vite-9468FE?logo=vite&logoColor=FFA800&style=flat" alt="Vite" style="margin-right: 5px"style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-FFFFFF?logo=tailwindcss&logoColor=0EA5E9&style=flat" alt="TailwindCSS" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=77AF5E&style=flat" alt="Node.js" style="margin-right: 5px"/>
@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/-CSS-F8F9FA?logo=css3&logoColor=2071F7&style=flat" alt="fjaraujo" style="margin-right: 5px"/>
 <img src="https://komarev.com/ghpvc/?username=fjarauj0" alt="fjaraujo" />
 </div>
-</br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fjarauj0" height="150" alt="Francisco's github stats"  />
@@ -37,12 +36,14 @@
 </div>
 
 <h3>Contact me:</h3>
-<a href="mailto:contacto@fjaraujo.com" title="Mail"><img src="https://img.shields.io/badge/-GMail-E34133?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="GMail" /></a>
-<a href="https://www.linkedin.com/in/fjarauj0/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/fjarauj0/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DD2779?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
-<a href="https://twitter.com/fjarauj0" title="Twitter"><img src="https://img.shields.io/badge/-Twitter-1C96E8?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Twitter" /></a>
-<a href="https://www.fjaraujo.com/" title="Portfolio"><img src="https://img.shields.io/badge/-Website-252931?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" /></a>
-<a href="https://www.blog.fjaraujo.com/" title="Blog"><img src="https://img.shields.io/badge/-Blog-207196?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" alt="Blog" /></a>
+<div align="left">
+<a href="mailto:contacto@fjaraujo.com" title="Mail"><img src="https://img.shields.io/badge/-GMail-E34133?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="GMail" style="margin-right: 5px" /></a>
+<a href="https://www.linkedin.com/in/fjarauj0/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="margin-right: 5px" /></a>
+<a href="https://www.instagram.com/fjarauj0/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DD2779?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" style="margin-right: 5px" /></a>
+<a href="https://twitter.com/fjarauj0" title="Twitter"><img src="https://img.shields.io/badge/-Twitter-1C96E8?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Twitter" style="margin-right: 5px" /></a>
+<a href="https://www.fjaraujo.com/" title="Portfolio"><img src="https://img.shields.io/badge/-Website-252931?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" style="margin-right: 5px" /></a>
+<a href="https://www.blog.fjaraujo.com/" title="Blog"><img src="https://img.shields.io/badge/-Blog-207196?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" alt="Blog" style="margin-right: 5px" /></a>
+</div>
 
 <div align="center">
 <img src="https://github.com/fjarauj0/fjarauj0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
