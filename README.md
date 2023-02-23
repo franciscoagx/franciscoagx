@@ -30,8 +30,8 @@
 <img src="https://komarev.com/ghpvc/?username=fjarauj0" alt="fjaraujo" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fjarauj0" height="150" alt="Francisco's github stats"  />
+<div align="left" style="display: flex">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fjarauj0" style="margin-right: 5px" height="150" alt="Francisco's github stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fjarauj0" height="150" alt="languages graph"  />
 </div>
 
