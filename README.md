@@ -45,6 +45,6 @@
 <a href="https://www.blog.fjaraujo.com/" title="Blog"><img src="https://img.shields.io/badge/-Blog-207196?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" alt="Blog" style="margin-right: 5px" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/fjarauj0/fjarauj0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</div> -->
