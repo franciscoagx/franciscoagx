@@ -1,9 +1,10 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<h1>Welcome!</h1>
+<p>I am a frontend developer with 2 years of experience in web application development. I specialize in using modern tools and technologies such as React JS, TypeScript, and Tailwind CSS.
 
-<h2>Welcome! I am Francisco Araujo, web developer</h2>
+My experience in React JS and TypeScript has allowed me to create robust and scalable web applications. Additionally, my skill in Tailwind CSS has enabled me to design websites with an attractive and consistent appearance.
 
-- 🔍 I’m currently looking for ...learn new thecnologies
-- 📖 I’m currently learning ...NextJS, Tailwind CSS
+I am passionate about programming and always seeking to improve my skills and knowledge to provide the best possible solution. I am ready to work in a team environment, collaborate, and contribute significantly to the success of the company.</p>
 
 <h3>Development environment:</h3>
 <div align="left" style="display: flex">
