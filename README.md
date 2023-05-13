@@ -32,8 +32,8 @@ I am passionate about programming and always seeking to improve my skills and kn
 </div>
 
 <div align="left" style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=frankaraujo" style="margin-right: 5px" height="150" alt="Francisco's github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=frankaraujo" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true" style="margin-right: 5px" height="150" alt="Francisco's github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=5&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" height="150" alt="languages graph"  />
 </div>
 
 <h3>Contact me:</h3>
@@ -43,7 +43,6 @@ I am passionate about programming and always seeking to improve my skills and kn
 <a href="https://www.instagram.com/frankaraujo_dev/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DD2779?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" style="margin-right: 5px" /></a>
 <a href="https://twitter.com/frankaraujo_dev" title="Twitter"><img src="https://img.shields.io/badge/-Twitter-1C96E8?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Twitter" style="margin-right: 5px" /></a>
 <a href="https://www.fjaraujo.com/" title="Portfolio"><img src="https://img.shields.io/badge/-Website-252931?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" style="margin-right: 5px" /></a>
-<a href="https://www.blog.fjaraujo.com/" title="Blog"><img src="https://img.shields.io/badge/-Blog-207196?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" alt="Blog" style="margin-right: 5px" /></a>
 </div>
 
 <!-- <div align="center">
