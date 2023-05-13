@@ -28,24 +28,24 @@ I am passionate about programming and always seeking to improve my skills and kn
 <img src="https://img.shields.io/badge/-Sass-F8F9FA?logo=sass&logoColor=CF649A&style=flat" alt="Sass" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-HTML-F8F9FA?logo=html5&logoColor=E96228&style=flat" alt="HTML" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/-CSS-F8F9FA?logo=css3&logoColor=2071F7&style=flat" alt="fjaraujo" style="margin-right: 5px"/>
-<img src="https://komarev.com/ghpvc/?username=fjarauj0" alt="fjaraujo" />
+<img src="https://komarev.com/ghpvc/?username=frankaraujo" alt="frankaraujo" />
 </div>
 
 <div align="left" style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fjarauj0" style="margin-right: 5px" height="150" alt="Francisco's github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fjarauj0" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=frankaraujo" style="margin-right: 5px" height="150" alt="Francisco's github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=frankaraujo" height="150" alt="languages graph"  />
 </div>
 
 <h3>Contact me:</h3>
 <div align="left" style="display: flex">
 <a href="mailto:contacto@fjaraujo.com" title="Mail"><img src="https://img.shields.io/badge/-GMail-E34133?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="GMail" style="margin-right: 5px" /></a>
-<a href="https://www.linkedin.com/in/fjarauj0/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="margin-right: 5px" /></a>
-<a href="https://www.instagram.com/fjarauj0/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DD2779?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" style="margin-right: 5px" /></a>
-<a href="https://twitter.com/fjarauj0" title="Twitter"><img src="https://img.shields.io/badge/-Twitter-1C96E8?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Twitter" style="margin-right: 5px" /></a>
+<a href="https://www.linkedin.com/in/frankaraujodev/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="margin-right: 5px" /></a>
+<a href="https://www.instagram.com/frankaraujo_dev/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DD2779?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" style="margin-right: 5px" /></a>
+<a href="https://twitter.com/frankaraujo_dev" title="Twitter"><img src="https://img.shields.io/badge/-Twitter-1C96E8?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Twitter" style="margin-right: 5px" /></a>
 <a href="https://www.fjaraujo.com/" title="Portfolio"><img src="https://img.shields.io/badge/-Website-252931?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" style="margin-right: 5px" /></a>
 <a href="https://www.blog.fjaraujo.com/" title="Blog"><img src="https://img.shields.io/badge/-Blog-207196?style=for-the-badge&logo=wordpress&logoColor=FFFFFF" alt="Blog" style="margin-right: 5px" /></a>
 </div>
 
 <!-- <div align="center">
-<img src="https://github.com/fjarauj0/fjarauj0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/frankaraujo/frankaraujo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div> -->
