@@ -1,50 +1,44 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1>Welcome!</h1>
-<p>I am a frontend developer with 2 years of experience in web application development. I specialize in using modern tools and technologies such as React JS, TypeScript, and Tailwind CSS.
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
+
+# Welcome!
+
+![Windows](https://img.shields.io/badge/-Windows-0078D7?logo=windows&logoColor=FFFFFF&style=flat)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-D64613?logo=ubuntu&logoColor=F7F7F7&style=flat)
+![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-333333?logo=windowsterminal&logoColor=FFFFFF&style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-0076C6?logo=visualstudio&logoColor=FFFFFF&style=flat)
+![Git](https://img.shields.io/badge/-Git-E84D31?logo=git&logoColor=EAE9E1&style=flat)
+![Github](https://img.shields.io/badge/-Github-24292F?logo=github&logoColor=F6F8FA&style=flat)
+![Yarn](https://img.shields.io/badge/-Yarn-2188B6?style=flat&logo=yarn&logoColor=FFFFFF)
+
+I am a frontend developer with 2 years of experience in web application development. I specialize in using modern tools and technologies such as React JS, TypeScript, and Tailwind CSS.
 
 My experience in React JS and TypeScript has allowed me to create robust and scalable web applications. Additionally, my skill in Tailwind CSS has enabled me to design websites with an attractive and consistent appearance.
 
-I am passionate about programming and always seeking to improve my skills and knowledge to provide the best possible solution. I am ready to work in a team environment, collaborate, and contribute significantly to the success of the company.</p>
+I am passionate about programming and always seeking to improve my skills and knowledge to provide the best possible solution. I am ready to work in a team environment, collaborate, and contribute significantly to the success of the company.
 
-<h3>Development environment:</h3>
-<div align="left" style="display: flex">
-<img src="https://img.shields.io/badge/-Windows-0078D7?logo=windows&logoColor=FFFFFF&style=flat" alt="Windows" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Ubuntu-D64613?logo=ubuntu&logoColor=F7F7F7&style=flat" alt="Ubuntu" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Windows_Terminal-333333?logo=windowsterminal&logoColor=FFFFFF&style=flat" alt="Windows_Terminal" style="margin-right: 5px"style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-VS_Code-0076C6?logo=visualstudio&logoColor=FFFFFF&style=flat" alt="VS_Code" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Git-E84D31?logo=git&logoColor=EAE9E1&style=flat" alt="Git" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Yarn-2188B6?style=flat&logo=yarn&logoColor=FFFFFF" alt="Yarn" style="margin-right: 5px"/>
-</div>
+## Stats
 
-<h3>Favorites technologies:</h3>
-<div align="left" style="display: flex">
-<img src="https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=000000&style=flat" alt="Next.js" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Vite-9468FE?logo=vite&logoColor=FFA800&style=flat" alt="Vite" style="margin-right: 5px"style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-FFFFFF?logo=tailwindcss&logoColor=0EA5E9&style=flat" alt="TailwindCSS" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=77AF5E&style=flat" alt="Node.js" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Javascript-333333?logo=javascript&logoColor=EFD81D&style=flat" alt="Javascript" style="margin-right: 5px"style="margin-right: 5px"style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFFFF&style=flat" alt="Typescript" style="margin-right: 5px"style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Github-24292F?logo=github&logoColor=F6F8FA&style=flat" alt="Github" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-Sass-F8F9FA?logo=sass&logoColor=CF649A&style=flat" alt="Sass" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-HTML-F8F9FA?logo=html5&logoColor=E96228&style=flat" alt="HTML" style="margin-right: 5px"/>
-<img src="https://img.shields.io/badge/-CSS-F8F9FA?logo=css3&logoColor=2071F7&style=flat" alt="fjaraujo" style="margin-right: 5px"/>
-<img src="https://komarev.com/ghpvc/?username=frankaraujo" alt="frankaraujo" />
-</div>
+![Francisco's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true)
+![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=4&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2)
 
-<div align="left" style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true" style="margin-right: 5px" alt="Francisco's github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=4&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" alt="languages graph"  />
-</div>
+## Favorites technologies:
 
-<h3>Contact me:</h3>
-<div align="left" style="display: flex">
-<a href="mailto:contacto@fjaraujo.com" title="Mail"><img src="https://img.shields.io/badge/-GMail-E34133?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="GMail" style="margin-right: 5px" /></a>
-<a href="https://www.linkedin.com/in/frankaraujodev/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="margin-right: 5px" /></a>
-<a href="https://www.instagram.com/frankaraujo_dev/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DD2779?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" style="margin-right: 5px" /></a>
-<a href="https://twitter.com/frankaraujo_dev" title="Twitter"><img src="https://img.shields.io/badge/-Twitter-1C96E8?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Twitter" style="margin-right: 5px" /></a>
-<a href="https://www.fjaraujo.com/" title="Portfolio"><img src="https://img.shields.io/badge/-Website-252931?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" style="margin-right: 5px" /></a>
-</div>
+<!-- ![Javascript](https://img.shields.io/badge/-Javascript-333333?logo=javascript&logoColor=EFD81D&style=flat) -->
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=77AF5E&style=flat) -->
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFFFF&style=flat)
+![Vite](https://img.shields.io/badge/-Vite-9468FE?logo=vite&logoColor=FFA800&style=flat)
+![React](https://img.shields.io/badge/-React-333333?logo=react&logoColor=149ECA&style=flat)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-333333?logo=reactquery&style=flat&logocolor=002B3B)
+![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=000000&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-F8F9FA?logo=sass&logoColor=CF649A&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?logo=tailwindcss&logoColor=0EA5E9&style=flat)
 
-<!-- <div align="center">
-<img src="https://github.com/frankaraujo/frankaraujo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div> -->
+## Contact me:
+
+[![Mail](https://img.shields.io/badge/Mail--green?logo=gmail&style=social)](mailto:contacto@fjaraujo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--green?logo=linkedin&style=social)](https://www.linkedin.com/in/frankaraujodev/)
+[![Instagram](https://img.shields.io/badge/Instagram--green?logo=instagram&style=social)](https://www.instagram.com/frankaraujo_dev/)
+[![Twitter](https://img.shields.io/badge/Twitter--green?logo=twitter&style=social)](https://twitter.com/frankaraujo_dev)
+[![Website](https://img.shields.io/badge/Website--green?logo=brave&style=social)](https://www.fjaraujo.com/)
+
+![frankaraujo](https://komarev.com/ghpvc/?username=frankaraujo)
