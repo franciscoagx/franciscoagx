@@ -1,3 +1,6 @@
+<style>
+</style>
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1>Welcome!</h1>
 <p>I am a frontend developer with 2 years of experience in web application development. I specialize in using modern tools and technologies such as React JS, TypeScript, and Tailwind CSS.
@@ -32,8 +35,8 @@ I am passionate about programming and always seeking to improve my skills and kn
 </div>
 
 <div align="left" style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true" style="margin-right: 5px" height="150" alt="Francisco's github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=5&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true" style="margin-right: 5px" alt="Francisco's github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=4&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" alt="languages graph"  />
 </div>
 
 <h3>Contact me:</h3>
