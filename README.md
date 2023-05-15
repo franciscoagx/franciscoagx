@@ -25,8 +25,8 @@ I am passionate about programming and always seeking to improve my skills and kn
 
 ## Favorites technologies:
 
-<!-- ![Javascript](https://img.shields.io/badge/-Javascript-333333?logo=javascript&logoColor=EFD81D&style=flat) -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=77AF5E&style=flat) -->
+![Javascript](https://img.shields.io/badge/-Javascript-333333?logo=javascript&logoColor=EFD81D&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?logo=node.js&logoColor=77AF5E&style=flat)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFFFF&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-9468FE?logo=vite&logoColor=FFA800&style=flat)
 ![React](https://img.shields.io/badge/-React-333333?logo=react&logoColor=149ECA&style=flat)
@@ -38,6 +38,7 @@ I am passionate about programming and always seeking to improve my skills and kn
 ### Learning:
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?logo=nestjs&logoColor=E0234E&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF&style=flat)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-FFFFFF?logo=unoCSS&logoColor=333333&style=flat)
 
 ## Contact me:
 
