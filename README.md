@@ -7,8 +7,10 @@
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-333333?logo=windowsterminal&logoColor=FFFFFF&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS_Code-0076C6?logo=visualstudio&logoColor=FFFFFF&style=flat)
 ![Git](https://img.shields.io/badge/-Git-E84D31?logo=git&logoColor=EAE9E1&style=flat)
-![Github](https://img.shields.io/badge/-Github-24292F?logo=github&logoColor=F6F8FA&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-77AF5E?logo=node.js&logoColor=FFFFFF&style=flat)
+![Github](https://img.shields.io/badge/-Github-24292F?logo=github&logoColor=FFFFFF&style=flat)
 ![Yarn](https://img.shields.io/badge/-Yarn-2188B6?style=flat&logo=yarn&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFFFFF&style=flat)
 
 I am a frontend developer with 2 years of experience in web application development. I specialize in using modern tools and technologies such as React JS, TypeScript, and Tailwind CSS.
 
@@ -33,6 +35,10 @@ I am passionate about programming and always seeking to improve my skills and kn
 ![Sass](https://img.shields.io/badge/-Sass-F8F9FA?logo=sass&logoColor=CF649A&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?logo=tailwindcss&logoColor=0EA5E9&style=flat)
 
+### Learning:
+![NestJS](https://img.shields.io/badge/-NestJS-333333?logo=nestjs&logoColor=E0234E&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF&style=flat)
+
 ## Contact me:
 
 [![Mail](https://img.shields.io/badge/Mail--green?logo=gmail&style=social)](mailto:contacto@fjaraujo.com)
@@ -40,5 +46,6 @@ I am passionate about programming and always seeking to improve my skills and kn
 [![Instagram](https://img.shields.io/badge/Instagram--green?logo=instagram&style=social)](https://www.instagram.com/frankaraujo_dev/)
 [![Twitter](https://img.shields.io/badge/Twitter--green?logo=twitter&style=social)](https://twitter.com/frankaraujo_dev)
 [![Website](https://img.shields.io/badge/Website--green?logo=brave&style=social)](https://www.fjaraujo.com/)
+[![Platzi](https://img.shields.io/badge/Platzi--green?logo=platzi&logoColor=98CA3F&style=social)](https://platzi.com/p/frankaraujo_dev/)
 
 ![frankaraujo](https://komarev.com/ghpvc/?username=frankaraujo)
