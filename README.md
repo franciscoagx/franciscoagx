@@ -20,8 +20,8 @@ I am passionate about programming and always seeking to improve my skills and kn
 
 ## Stats
 
-![Francisco's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true)
-![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=4&username=frankaraujo&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2)
+![Francisco's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=franciscoagx&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true)
+![languages graph](https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=4&username=franciscoagx&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2)
 
 ## Favorites technologies:
 
