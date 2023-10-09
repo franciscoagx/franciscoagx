@@ -38,7 +38,7 @@ I am passionate about programming and always seeking to improve my skills and kn
 ### Learning:
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?logo=nestjs&logoColor=E0234E&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF&style=flat)
-![UnoCSS](https://img.shields.io/badge/-UnoCSS-FFFFFF?logo=unoCSS&logoColor=333333&style=flat)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=FFFFFF&style=flat)
 
 ## Contact me:
 
