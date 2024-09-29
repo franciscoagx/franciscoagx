@@ -34,6 +34,7 @@ I am passionate about programming and always seeking to improve my skills and kn
 ![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?logo=next.js&logoColor=000000&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-F8F9FA?logo=sass&logoColor=CF649A&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?logo=tailwindcss&logoColor=0EA5E9&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFFFFF&style=flat)
 
 ### Learning:
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?logo=nestjs&logoColor=E0234E&style=flat)
