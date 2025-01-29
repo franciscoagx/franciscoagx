@@ -11,6 +11,7 @@
 ![Github](https://img.shields.io/badge/-Github-24292F?logo=github&logoColor=FFFFFF&style=flat)
 ![Yarn](https://img.shields.io/badge/-Yarn-2188B6?style=flat&logo=yarn&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFFFFF&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-FFFFFF?logo=figma&logoColor=F24E1E&style=flat)
 
 I am a frontend developer with 2 years of experience in web application development. I specialize in using modern tools and technologies such as React JS, TypeScript, and Tailwind CSS.
 
