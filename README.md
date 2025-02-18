@@ -13,11 +13,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFFFFF&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?logo=figma&logoColor=F24E1E&style=flat)
 
-I am a frontend developer with 2 years of experience in web application development. I specialize in using modern tools and technologies such as React JS, TypeScript, and Tailwind CSS.
+My role as a Web Developer centers on enhancing digital interfaces and optimizing user experiences. With expertise in React.js, I design responsive websites and refine application performance, ensuring they meet high-quality standards and SEO best practices. My contributions help improve search engine visibility and user engagement.
 
-My experience in React JS and TypeScript has allowed me to create robust and scalable web applications. Additionally, my skill in Tailwind CSS has enabled me to design websites with an attractive and consistent appearance.
-
-I am passionate about programming and always seeking to improve my skills and knowledge to provide the best possible solution. I am ready to work in a team environment, collaborate, and contribute significantly to the success of the company.
+My focus is on delivering high-quality project deliverables, from website layout to content integration, backed by solid experience in front-end development. The collaborative efforts with my team aim to drive innovation and excellence in web development, reflecting our commitment to advancing the organization's digital presence.
 
 ## Stats
 
