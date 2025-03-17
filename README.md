@@ -13,10 +13,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFFFFF&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?logo=figma&logoColor=F24E1E&style=flat)
 
-My role as a Web Developer centers on enhancing digital interfaces and optimizing user experiences. With expertise in React.js, I design responsive websites and refine application performance, ensuring they meet high-quality standards and SEO best practices. My contributions help improve search engine visibility and user engagement.
-
-My focus is on delivering high-quality project deliverables, from website layout to content integration, backed by solid experience in front-end development. The collaborative efforts with my team aim to drive innovation and excellence in web development, reflecting our commitment to advancing the organization's digital presence.
-
+Results-Driven Web Developer with 4+ years of experience building scalable, high-performance web applications. Expertise in frontend development using React, JavaScript (ES6+), and TypeScript to create dynamic, responsive user interfaces. Skilled in state management, integrating RESTful APIs, and ensuring mobile-first, cross-browser compatibility. Proven ability to optimize performance and deliver clean, maintainable code. Collaborative team player passionate about continuous learning and creating seamless user experiences.
 ## Stats
 
 ![Francisco's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&count_private=true&locale=en&username=franciscoagx&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&icon_color=8be9fd&hide_border=true)
